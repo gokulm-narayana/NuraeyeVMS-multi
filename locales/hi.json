@@ -1,0 +1,39 @@
+{
+    "nav": {
+        "dashboard": "डैशबोर्ड",
+        "cameras": "कैमरे",
+        "alerts": "अलर्ट",
+        "multiview": "मल्टीव्यू",
+        "settings": "सेटिंग्स",
+        "nura_ai": "नूरा एआई",
+        "search": "खोज"
+    },
+    "dashboard": {
+        "camera_summary": "कैमरा सारांश",
+        "total_cameras": "कुल कैमरे",
+        "online": "ऑनलाइन",
+        "offline": "ऑफ़लाइन",
+        "recording": "रिकॉर्डिंग",
+        "system_storage": "सिस्टम और स्टोरेज",
+        "storage_usage": "स्टोरेज उपयोग",
+        "days_retention": "शेष दिन (रिटेंशन)",
+        "cpu_load": "सीपीयू लोड",
+        "memory": "रीति (मेमोरी)",
+        "server_status": "सर्वर स्थिति",
+        "uptime": "अपटाइम",
+        "camera_issues": "कैमरा समस्याएं",
+        "no_issues": "कोई समस्या नहीं मिली",
+        "active_alerts": "सक्रिय अलर्ट"
+    },
+    "settings": {
+        "general_settings": "सामान्य सेटिंग्स",
+        "configure_basic": "बुनियादी सिस्टम पैरामीटर कॉन्फ़िगर करें",
+        "system_identification": "सिस्टम पहचान",
+        "system_name": "सिस्टम का नाम",
+        "timezone": "समय क्षेत्र (Timezone)",
+        "regional_language": "क्षेत्रीय और भाषा",
+        "language": "भाषा (Language)",
+        "auto_logout": "स्वचालित लॉगआउट (मिनट)",
+        "save_changes": "परिवर्तन सहेजें"
+    }
+}

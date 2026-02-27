@@ -1,0 +1,39 @@
+{
+    "nav": {
+        "dashboard": "డాష్‌బోర్డ్",
+        "cameras": "కెమెరాలు",
+        "alerts": "అలర్ట్స్",
+        "multiview": "మల్టీవ్యూ",
+        "settings": "సెట్టింగ్స్",
+        "nura_ai": "నారా ఏఐ",
+        "search": "శోధన"
+    },
+    "dashboard": {
+        "camera_summary": "కెమెరా సారాంశం",
+        "total_cameras": "మొత్తం కెమెరాలు",
+        "online": "ఆన్‌లైన్",
+        "offline": "ఆఫ్‌లైన్",
+        "recording": "రికార్డింగ్ అవుతోంది",
+        "system_storage": "సిస్టమ్ & నిల్వ",
+        "storage_usage": "నిల్వ వినియోగం",
+        "days_retention": "మిగిలిన రోజులు (సంగ్రహణ)",
+        "cpu_load": "CPU లోడ్",
+        "memory": "మెమరీ",
+        "server_status": "సర్వర్ స్థితి",
+        "uptime": "ఆన్‌లైన్ సమయం",
+        "camera_issues": "కెమెరా సమస్యలు",
+        "no_issues": "సమస్యలు లేవు",
+        "active_alerts": "క్రియాశీల హెచ్చరికలు"
+    },
+    "settings": {
+        "general_settings": "సాధారణ సెట్టింగ్‌లు",
+        "configure_basic": "ప్రాథమిక సిస్టమ్ పారామితులను కాన్ఫిగర్ చేయండి",
+        "system_identification": "సిస్టమ్ గుర్తింపు",
+        "system_name": "సిస్టమ్ పేరు",
+        "timezone": "సమయ క్షేత్రం (Timezone)",
+        "regional_language": "ప్రాంతీయ మరియు భాష",
+        "language": "భాష (Language)",
+        "auto_logout": "ఆటో లాగౌట్ (నిమిషాలు)",
+        "save_changes": "మార్పులను సేవ్ చేయండి"
+    }
+}
